@@ -1,2 +1,2 @@
 # Alpha-Beta_pruning
-University project
+University project for Introduction to AI course
